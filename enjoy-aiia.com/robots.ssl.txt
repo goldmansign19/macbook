@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /old/
+Disallow: /cdn-cgi/l/email-protection
+Disallow: /*?lang=com*
+Disallow: /?
+Disallow: /de/?
+Sitemap: https://enjoy-aiia.com/sitemap.xml

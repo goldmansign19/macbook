@@ -1,0 +1,43 @@
+div.hermes-positions1 {
+    margin-left: auto;
+    margin-right: auto;
+    vertical-align: middle;
+    width: 6em
+}
+
+
+div.hermes-positions {
+    width: 250px;
+    height: 250px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: -125px 0 0 -125px;
+}
+
+div.menu {
+    background: #230000;
+    color: #A5F23F;
+    line-height: 80px;
+    text-align: center;
+    font-weight: 500;
+    font-size: 15px;
+
+}
+
+
+div.hermes-promo {
+    background: #000000;
+    color: #FFFFFF;
+    height: 40px;
+    width: 100vw;
+    position: fixed;
+    z-index: 9999;
+    top: 0;
+    line-height: 40px;
+    text-align: center;
+    font-weight: 500;
+    font-size: 15px;
+}
+
+div.site-header desktop-view--minimal header-scroll
